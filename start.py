@@ -1,7 +1,7 @@
-name = "Ethan Miller"
-generic_statement = "I'm an aspiring Space Cowboy"
+name = "Your name"
+generic_statement = "I like the color..."
 print(name)
-phone = 8014401149
+phone = 8019999999
 print(f”phone: {phone}”)
 
 
